@@ -25,7 +25,9 @@ SECRET_KEY = '1tyku0y37#4eddmo0%q_12@@o(o+bbus38f-b5xuq@k07ws$yu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+	'silsa.pythonanywhere.com',
+]
 
 
 # Application definition
